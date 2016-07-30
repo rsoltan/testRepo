@@ -1,2 +1,4 @@
 This is a sample text file to be committed to the Master branch of the local reopsitory "testRepo".
 :-)
+
+Another simple change in the file. 2nd edition. 
